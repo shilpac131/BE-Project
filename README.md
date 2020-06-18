@@ -1,2 +1,2 @@
 # BE-Project
-Machine Leanrning And IOT used for water prediction in Drip Irrigation
+Drip Irrigation using Machine Leanrning And IOT used for water prediction for crops
